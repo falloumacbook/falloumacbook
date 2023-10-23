@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @falloumacbook
+- 👋 Hi, I’m Sering Fallou Jeng
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Html, Css and Javascript
+- 🌱 I’m currently learning Html, Css and Javascript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my email: falloumacbook@gmail.com
+- 📫 You can reach me through my email: falloumacbook@gmail.com
 
 <!---
 falloumacbook/falloumacbook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
