@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @falloumacbook
+- 👋 Hi, I’m Sering Fallou Jeng
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Html, Css and Javascript.
 - 💞️ I’m looking to collaborate on ...
